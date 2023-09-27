@@ -18,7 +18,8 @@ These settings are available within the **Privacy & Security** section of your b
 <br />
 
 ## Disable Telemetry and Data Collection:
-- Launch Firefox, type `about:config` in the address bar. If you get a warning prompt, select `Accept the Risk and Continue`.
+- Launch Firefox, type `about:config` in the address bar.
+  - If you get a warning prompt, select `Accept the Risk and Continue`.
 - In the search bar, type each of the below settings and set them to the value provided in the right column:
   
 <br />
