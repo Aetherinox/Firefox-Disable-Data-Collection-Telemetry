@@ -53,6 +53,8 @@ Setting | Change To |
 | toolkit.telemetry.unifiedIsOptIn | false |
 | toolkit.telemetry.updatePing.enabled | false |
 
+<br />
+<br />
 
 ---
 
