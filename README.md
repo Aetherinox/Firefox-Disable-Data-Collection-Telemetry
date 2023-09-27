@@ -60,5 +60,6 @@ Setting | Change To |
 
 <p align="center"><img src="https://librewolf.net/icon.svg" width="230"></a></p>
 
-If privacy is a concern and you wish to do away with the telemetry all-together, try out https://librewolf.net/. Librewolf is built on the same framework as Firefox and compatible with all Firefox plugins, however, it has stripped all of the telemetry.
+If privacy is a concern and you wish to do away with the telemetry all-together, try out https://librewolf.net/.
 
+Librewolf is a custom and independent version of Firefox, with the primary goals of privacy, security and user freedom. It is designed to increase protection against tracking and fingerprinting techniques, while also including a few security improvements.  LibreWolf also aims to remove all the telemetry, data collection and annoyances, as well as disabling anti-freedom features like DRM. It is also compatible with all plugins available for Firefox.
