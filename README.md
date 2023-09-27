@@ -52,3 +52,13 @@ Setting | Change To |
 | toolkit.telemetry.unified | false |
 | toolkit.telemetry.unifiedIsOptIn | false |
 | toolkit.telemetry.updatePing.enabled | false |
+
+
+---
+
+## Alternative Browser (Librewolf)
+
+<p align="center"><img src="https://librewolf.net/icon.svg" width="230"></a></p>
+
+If privacy is a concern and you wish to do away with the telemetry all-together, try out https://librewolf.net/. Librewolf is built on the same framework as Firefox and compatible with all Firefox plugins, however, it has stripped all of the telemetry.
+
